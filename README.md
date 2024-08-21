@@ -10,6 +10,6 @@ Inglês avançado
 Português fluente
 
 ### Projetos 
-PikaPula
+PikaPula: https://marcoantoniogs.github.io/PikaPula/
 
 
