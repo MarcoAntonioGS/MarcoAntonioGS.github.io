@@ -15,6 +15,6 @@
 - Português fluente
 
 ### Projetos 
-- [PikaPula] (https://marcoantoniogs.github.io/PikaPula/)
+ PikaPula: (https://marcoantoniogs.github.io/PikaPula/)
 
 
