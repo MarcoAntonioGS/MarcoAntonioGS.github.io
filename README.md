@@ -1,6 +1,6 @@
 # Ciência da Computação
-Data de inicio: 01/2022
-Previsão de conclusão: 12/2025
+- Data de inicio: 01/2022
+- Previsão de conclusão: 12/2025
  
 ### Habilidades
 - Javascript
@@ -11,10 +11,10 @@ Previsão de conclusão: 12/2025
 - sql
 
 ### Línguas 
-Inglês avançado
-Português fluente
+- Inglês avançado
+- Português fluente
 
 ### Projetos 
-PikaPula: https://marcoantoniogs.github.io/PikaPula/
+- PikaPula: (https://marcoantoniogs.github.io/PikaPula/)
 
 
